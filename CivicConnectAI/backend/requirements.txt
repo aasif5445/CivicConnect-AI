@@ -1,0 +1,11 @@
+Flask==3.0.2
+Flask-Cors==4.0.0
+PyMySQL==1.1.0
+cryptography==42.0.5
+chromadb==0.4.24
+sentence-transformers==2.5.1
+pypdf==4.1.0
+google-genai==0.1.1
+python-dotenv==1.0.1
+requests==2.31.0
+numpy==1.26.4

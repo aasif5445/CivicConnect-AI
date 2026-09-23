@@ -1,0 +1,6 @@
+{
+  "name": "CivicConnect AI",
+  "description": "AI-Powered Citizen Assistance Platform for Government Welfare Schemes with RAG, ChromaDB, and MySQL DBMS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
